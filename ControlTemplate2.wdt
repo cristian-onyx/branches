@@ -1,0 +1,127 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : ControlTemplate2
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : ControlTemplate2
+ identifier : 0x23e579e2027c59cf
+ internal_properties : CAAAAAgAAACfwCLB6d43VtwZUcN7SOREvpOdtw9nB6wkWMVsu6CqfkpUkQ575hNQp8WpJLu+cbD818cOOPlQCZBCwlXlRgjMVzLnTLlYFJdwO1Tp4aYqKO2CpIIrHJbMc5lOWYGYkbugDBXieAxPMZ4iiOM5Ffn5P3D8LDJgWO1EtMhBdpTyOUicUFJc8usMqwv8FXxGGS63Zl5HICXp34p0hVwIet8chLCw4jEfwCh8pOa/hlC/OZYYE6y/zMWCJhIF3cDlkGiPwcpxW5UroX7KV3jX4QHf6GAEuqGeNerePrhW97bh0ZBseu06YFeM+m+VUkAmhmYmSgU1hVQXtd490SaedZSqj9NhwqPmJunGwZZHZWaQchFJXqGQOJ22l24zD65mNHmQ8ZsTutpXExjSb1m2JHCyfmb5JjScUQtcFZ05OP0lycop721vMWnOiU6ahxUXYZ7pD3nSEhSHVTCd6qnEV7UvbwIHAF94bMRxnfHZZRHo/BV8r6R7WZqC/fh37rDgUMpx1mjJnOBDtw6FYYJWQDzIbXHCoUFjRl0Khb3V72ULDY7NVan74Nmm7CqytRfAvBBUL/UsmOpYZ0BVmTvwAGNvyhvwBJLGI6++IJv7g5AvV8mIKGfPTg8JqP+BMiRlld7nkr5bDijO1pVpYX9HkGLrzxeig4O0X0m3VEVP2DIFcjo0lsdNMmXAKefWdfvyNllNiLDk8dHIKuSc5L3jhIcX1BuHc8Z4x35F13kEzQWIJMxz4IJXYaj1acXP8QEkbxJxqpsNnGmOR+mxmA0d1FItY2fapLICT8YJIA/ljIz7ff1Jml0=
+ properties :
+  width : 640
+  height : 480
+ controls :
+  -
+    name : ControlTemplate2
+    identifier : 0x23e579e2027f59cf
+    internal_properties : CAAAAAgAAADiwjtRqhP4ZjQfwwA6K4MnTSzCO/NcI+eznKNg6pXp4T4ZTJKdiTxEUtt+pkgnxQbbrbjgGY6Hdyw9mymiOUGzqYuBfO3SJ+keEtGuFYQp8xotn8gZU0w5ASgrVGOYXVzgT5u8dH0HS5wzDnsvKHJg/PMEphY26cErkXZSJo1i+hOxS3l77HpXx5BS0IjcWOXeorW/3LaGxcPIMPFkbbZONHyc41N5bnSI9YANAOzZQG44M/HfCrwgXly8ObQn31ZfiMfOP3BQSqcc7QTK55KI4mLMJ+DfK6bV/qYnoeQdjJq6XKAyr+qSzwlvfROo3k5WAR3ZILnkxYsbDRAxRnL6mu/Clmt+AsGJqe3dTUNxW2QsbBvUVEx+6c7w11PrHhX4mh+ZjcKoA37uVR0cQAk3GIYBdIix6zEX4twirDNrtLcQvZGymEK74JjbZ0Znrwpt53f4BF7Z
+    properties :
+     width : 640
+     height : 480
+    controls :
+     -
+       name : ControlTemplateTemplate1
+       identifier : 0x23e579f50284a446
+       internal_properties : CAAAAAgAAAADVtNsylGDbfAsKtT823QFOJWzESr21kU+ih75ToBdIb1fv+xU0KnZMWimXzd1suyk/CLLP4fxMvLSHgBEv2TU07CdWGHkEdG9p5mUfWJhOZozDTPrYRo8h4pB/DPtEBX8v0JU9PpiuJ04h0sBP3xKsF5NWLlzeUF12Btglg+u1rXaERMXsDSBanbrvq0845a4HgXqPW4dBxAvIzNxIBTBu95kdP7an9kAn8Z1Cm1GJ/n90IsU4SPHnvF75Wcr0zbJlLcKcDtb5Dhem3StZJRsp8SnYIEc0hzIG4BAapsNQFS+qtrf2D3QfksbVOXGRk205pgOCIuSE0XU7kb47srJwo75k+vPJLlAFop/SWH8qBufdRmREu3TjYHvMdTf8AVOStIipiyH0T0rbR3ERpf8zMDJQS03Ej5b21QgavVIf4Dy1/Jf4bvSu9s+XD5i0M5Ql4+uYVWZJFem8I58RfGO2xJLSooifGdRAtFoCQW82Ur4aFXGOuUhUGMICrxRBY/zt/LCDIdQzWiLDVszej3a0A32FBg7uGcmCeA9Twta5dm34GUgemM1uGbpmJJN+f8HSXEMw2ZStUq4BkDlRN/X1Y7tMBH3cKDeeu2FC83PpcbGoaA3L/L7Dj0Jb4zxEaCWwMx/LuDhy1jllXmLC/3gsZO11qs44MfW58cgbiihhwT4y7fetfl7haXiTe9D+19Q+ALAQ+hjPvqeF40RWbUj72ZAivhNlg==
+       properties :
+        width : 640
+        height : 480
+       controls :
+        -
+          name : ButtonTemplate1
+          identifier : 0x23e579f5028ba455
+          internal_properties : CAAAAAgAAADiu9OmJGvzf/moaCW7a9MNp2AvTfwMqqnnLex9bi9ma7n5U6cNPGWWnGcxJow+8u+HEQH4Yw8fSAPrfcejARZyajbyneTctQ8VsvwQR0OMaObnHepcxi69kSzvHHhqC59bO62tWAXMR093NnOJOr0h8MI913xC2JSsBCnrg+jsl3MSkYHhmoLypZx1uSriUd16UzQNNthLVcXF6u4xGXm571diQfLbfeJ3REgNCfvikvHk4FxlUWSWsxz+78mEb9SfNKyihhfB7Ue2ulJIMk77e09CHZLKc7zmwuU0hdqSnoUT1PXvP72blTN3IEaXrYsykQSc5vEnR+nS30hrhoTyqSloEQqHXTH9UWeBszQpipxfi3sJtk+cXvWHwI8pSrcSA9I66VhDj4NXtxrGeE7S5cxQtA6rGnNEdIAYfqRCykSceMC2a+aYulN9XzpFPQxsYVpAYt2NMlp3SW0IVzMXz0gcBzAfru0Pj/1cSNBOMw8swSqxtj/rFRCy/6sXMFXgGOkxfgWv1oiNqq+uH0nyEmwoYtUUMX2pf/oQJCdJQ9JmfpKIJKkstLOyIJ2TqQfD1MUjDuSH3dknvKPSaA59wMx2ydZgk475Lb+6Lw4nL1BSeYtnqLWaNoGeXM9e6bP0/Nrcl/rEMCncaYwz/92UBZg3dcSRhr1WfAvyN+HO1w0DH23rrOp7P9xlwvfCCt0h4EwoznsuYADjQ9DctCy+CgF33Bn5tlGsTv2fxLx2mhX9N2E4l0BfUWSI35jrPt0+zPMSSmEyOELgReqEc8eBwnSAvlqSoBw8XrUWeovEfPk/VQOLQROGAqbi+b/EnCQKYZkRW/CkGPpqOeoTXebGjwjoAaEPzr9uv7ZS0PeBFz5ZNkzhcjEIeLuoArrdCjJqbkFYfhwfBF9OAVY6yW78ScJAFVwCw5OZYJ05DTmLeWFX0Dwdhg==
+          properties :
+           x : 92
+           y : 128
+           width : 80
+           height : 24
+          type : 4
+          code_elements :
+           internal_properties : CAAAAAgAAAB1uhd08fKlkmj2+3yOYtTyUxFcHJpzRRn1xwVY0AL6zAgxMFKHQCBFdX8iNcjRULEYepKaCfQeVHeo/hn8ZQ9n0LV2fkmRgLnYbZotnAl37dkHIwZhBHASOzw0
+           type_code : 4
+           p_codes :
+            -
+              type : 161
+              enabled : false
+       type : 43
+       code_elements :
+        internal_properties : CAAAAAgAAABa1G1rV9vqbaK58xB++dJ0G5hKeyFTsR7YjPAKAKGlvfPZfHj2VTTDUwTO7HTBaK1m9kWku1oHc49N2Q==
+        type_code : 93
+        p_codes :
+         -
+           code : |1-
+            
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 14
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 234
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 15
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 16
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 43
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 42
+         -
+           code : |1-
+            //Run the process defined in the template
+            ExecuteAncestor
+           type : 17
+        templates :
+         -
+           name : ControlTemplateTemplate1
+           identifier : 0x13ee455d000b2cd2
+           code_elements :
+            internal_properties : CAAAAAgAAAAjutwjEHK3GEBnTDYMm0SP81oWzdv1xTzVjNoAF7xxluhMEtCoPbkdcpZ93Diu1A==
+            type_code : 93
+            p_codes : []
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x23e579e2027d59cf
+  internal_properties : CAAAAAgAAADvLYwkJMaMt61CauVXlz6A1V0WSrhhgALF2JwC3jYcIHZb1eaopYRQbGhEBt9tRk9+JqlwAo6WqrUJVeeXg89xLUlz4PbIKIVyOzXMwzRDDuVuXB1Wnlo22o6l53l5tV3WawwZUXO1Wgf23WIpWJ3QeZ2BG1OqctQuwDa4UCfK0yHim9UqMPjSsr+ZbZ7emH7fP2+LHOJTi8yseXoepar5uckzVzItsGY+aShNwHHCUYZskqhYKxHdI+Hyo/yJZgDzcyV7Og3Y5HxUwzLAIaUragyGbKVIspReerjPJtGp6AqQaha5n+g=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAADK4S8rtaL6ega9dzD9acRHnmWieyYRvyp5QPki+Kkp4tqlw2EIVTP2SKpTXrCf8qzJ6GfY6w74A31eGBhejoWG
+resources :
+ string_res :
+  identifier : 0x13e579e2001159cf
+  internal_properties : CAAAAAgAAAAZ++HSz2luvwiNhadWl8v3mh2d0Pq0fCIps02kogrcwVHmCg==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe

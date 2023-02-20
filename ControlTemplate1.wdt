@@ -1,0 +1,67 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : ControlTemplate1
+ major_version : 28
+ minor_version : 0
+ type : 20
+ description : ""
+ subtype : 0
+window :
+ name : ControlTemplate1
+ identifier : 0x23e579cd02660873
+ internal_properties : CAAAAAgAAABhdzd3+Lg3tBw9Zpjpv2X8eXI53udhli1fSpRBMJpHKOSaHf/cCEBLUsstx/dPPysZv2Ja7QxI+YGJ2SuVYa9vUD9kIomejXRzpSOPD41G9lV3ou/S7ERU1Y7iI+GXgq6VuGuL2Qx5w4dCFg1Sg8mTrlJWzFPfo+D4iZbEFRrMDe+Pu7pwKFZT36GEbNFtLxEdAFNh47Tp91t8uUUw5jBHbgqF8Lhdnn4ynZb14y65NJqlyuxwPzPRxCMZCRmwTv0VWTgsVhq2pLJTOFl5vsBDReyKJcivsp+N9OEv+tnWmrfUmQBrFpx9lE056f1QAo+v/6inluJfVTbVyzGLmwDW2OGn+hnZJtvxBbG+D96pAxeKzPSeWamqqUtkSrScKdZc+8IqB+UvhdbBBY4CdpQ2PcIPgCrmo9Wqj7kjJOHbc+pB8wchV5/8i2CSgzOp8R5j+S/u9njxN9YTWD9etdvBA+YjZAViYDhlaUXhTXH0qDvSJexDYaTMC5qjpGBIuqCntAINRAhrX/Zt2ywwboKCJ5P4kV2/nOsU16HNh/3nWXjHs93XzLvAOowSDacQaqJO4X+WgtBSYT5fE68C3qcTkHFCsECQ98v6OCFfzySdMbnAzCPhbC3fYhHLkqzts9jhbMCZbIoqsnHZ0TExvljNU/ZVerp9NGSCi4oG03dEI0XXZSgukbpfGCr/DlaXlcpGsW1HUAID56Hpy4q+GX4Y2XBYKDPLGPEooqzL/jTH9SeOn/HEDJkjFAx+PYdAQSWhDE1f+Gwd0ajjrT5OBSqPV8BqGQ==
+ properties :
+  width : 640
+  height : 480
+ controls :
+  -
+    name : ControlTemplate1
+    identifier : 0x23e579cd02690873
+    internal_properties : CAAAAAgAAADTk6kGWYCwbeUlleljP52WiFPFR4VoIMmsjFJe/1bnm/vbN19ccZSdFqzqF9CFhisn8+gHNmS1zxMP4tVWj3qiWkUmlAZNnfrbUttYotT+g71/A895Qd0BR/00JApFK9FJpEk1+nySkRKfEFJnmQAbsbX5ZF2P332kWg4vXCLNugOIttfFXVtIj1ZMuuAWL1fZaRegv0PZHr/fPv81jROcyuOg+F9K6sSCprFnOa1HJMTpY9AAmYugjF5VGX3Y94mzjUaWHDen9Ez5GoouSLLI1Knpavhd4cp6JKtnoG4JAy5x8gVzRYWLVxKXT80hnw0OBXriYsDqRq4dUPhEXBYCJnKz74iG9K/yvbCdp+u3SnNA9zBb4q49kzcVzTZ06W0+XLviC4t0T5iRgpHt7EqqZY+u8Xx1K9oW0TrZF8eewcGM3QDfuTstOiB3oc1tlAcZY/9e7yHrkXs=
+    properties :
+     width : 640
+     height : 480
+    controls :
+     -
+       name : ButtonTemplate1
+       identifier : 0x23e579d8026e335c
+       internal_properties : CAAAAAgAAAC5S6c4pyP6KAzPTSndkhIJu4cYqwQJNeyp3G0vW8SaHwbrYsghJ1KnZkCpYFWfLKnbcGGbaV3eAADLxRioJTChYfVFAGBZcAOhKT4fICb2eLzSuk6wriodu6C52tK2/fGPB2LquleSNW1rAWZ0hxxYnSErkhkGyViXpf7tldv/gfmaBNaQXVBfxT69I4ZbD/0ehKf90SWV8S6fMVf/nbwWb/rC+PiUvvepanUvGJZi1Mv8p8qiuPYNW5JK37b8VI0MXLnPAEres/MxzxzNmerw9LV94+UUmAsQIT+YHWwCtEXRVhP75iYB6fzlCNuRtvBPkIXEJesyVkWvV7q2cbHIppfbnQsU7MevXyujdE4LD06eJfS4AITck3WYLqIyYNjTIIl5B9uywcow3NzD9oUYgt+g7kGRVMTU2dkJxaRAnbCYddFvrPVMFaQwf+l0xjxqwi6MGauOWRUYqJg0StK01kSiSkjcRvpmRVjyODEKnMx3nlG7c11w/H2glXTPeZIW9LYopDoyWCivrdPMx9nC64/2Fg56QkMkQ1Uto/rYox/qjCIfqDFlb2xmaVIQg+4chRDzttAueAOfINwDG3mLaOGOXhAeRPkKlRpqwZFD9J7ZCYcgGrQuEU3hG1cAiUXtQIrhlkJtib+kop6XwHIXaXop/fnnYMCJQ7nTDqAvKZur04rPCdsEQDU/8U4Ls9y4t07FMriBOD+ap0Uwwd1sa8LbwX7iChFJmkymOGyh0KsA/GVRzzEf61ykHm4iLieSqOWeSrB5QoROCjh73b0H/6nYIAsqRK+x/VWdD83Wq63Ixy7ZD6qv
+       properties :
+        x : 92
+        y : 128
+        width : 80
+        height : 24
+       type : 4
+       code_elements :
+        type_code : 4
+        p_codes :
+         -
+           type : 161
+           enabled : false
+    type : 42
+    code_elements :
+     type_code : 92
+     p_codes : []
+ menu :
+  name : _Menu
+  identifier : 0x23e579cd02670873
+  internal_properties : CAAAAAgAAADvLYwkJMaMt61CauVXlz6A1V0WSrhhgALF2JwC3jYcIHZb1eaopYRQbGhEBt9tRk9+JqlwAo6WqrUJVeeXg89xLUlz4PbIKIVyOzXMwzRDDuVuXB1Wnlo22o6l53l5tV3WawwZUXO1Wgf23WIpWJ3QeZ2BG1OqctQuwDa4UCfK0yHim9UqMPjSsr+ZbZ7emH7fP2+LHOJTi8yseXoepar5uckzVzItsGY+aShNwHHCUYZskqhYKxHdI+Hyo/yJZgDzcyV7Og3Y5HxUwzLAIaUragyGbKVIspReerjPJtGp6AqQaha5n+g=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar : {}
+ code_elements :
+  type_code : 91
+  p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAAA6ih3UbgNXHwTtiPSFUEj+2fi/m7v4QV2rqidAupM=
+resources :
+ string_res :
+  identifier : 0x13e579cd00100873
+  internal_properties : CAAAAAgAAAAnMYFQ1bL/vz9ehh7L22SNNSlIzGTOI8h5F/WtgDNP
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
