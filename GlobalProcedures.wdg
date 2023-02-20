@@ -40,6 +40,14 @@ procedure_set :
       procedure New_Procedure1()
       
      type : 458752
+   -
+     name : New_Procedure2
+     procedure_id : 1437749360422887958
+     type_code : 15
+     code : |1+
+      procedure New_Procedure2()
+      
+     type : 458752
   procedure_templates : []
   property_templates : []
  code_parameters :
